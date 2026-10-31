@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="container">
-    <h1>Proyecto funcionando</h1>
+    <h1>Proyecto funcionando Escuela</h1>
     <table class="table">
     <thead>
         <tr>
@@ -21,8 +21,8 @@
     <tbody>
         <tr>
             <th scope="row">1</th>
-            <td>Gerdoc</td>
-            <td>Gutiérrez</td>
+            <td>Santiago</td>
+            <td>Marmolejo</td>
         </tr>
     </tbody>
     </table>
@@ -56,6 +56,7 @@
         <a href="Profesores.jsp" class="btn btn-secondary">Profesores</a>
         <a href="Materias.jsp" class="btn btn-secondary">Materias</a>
         <a href="ProfesorMaterias.jsp" class="btn btn-secondary">Profesor Materias</a>
+        <a href="AlumnoMaterias.jsp" class="btn btn-secondary">Alumno Materias</a>
     </p>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
