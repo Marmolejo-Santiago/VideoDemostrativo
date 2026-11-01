@@ -12,7 +12,7 @@ import javax.persistence.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-@Table(name = "Alumno_MATERIA")
+@Table(name = "ALUMNO_MATERIA")
 public class AlumnoMateria
 {
     @Id
@@ -21,7 +21,7 @@ public class AlumnoMateria
     private Long id;
 
     @ManyToOne
-    @JoinColumn(name = "Alumno_ID")
+    @JoinColumn(name = "ALUMNO_ID")
     private Alumno Alumno;
 
     @ManyToOne
